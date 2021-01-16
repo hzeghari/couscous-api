@@ -1,0 +1,70 @@
+{
+    "couscous": [
+      {
+        "id": 0,
+        "name": "Moroccan Seven Vegetable Couscous",
+        "origin": "Morocco",
+        "web": "https://hzeghari.now.sh",
+        "description": "A recipe for classic Moroccan seven vegetable couscous.",
+        "image":"https://marocmama.com/wp-content/uploads/2020/04/Couscous-Tfaya-720x720.jpg",
+        "prep_time":"15 minutes",
+        "cook_time":"1 hour 15 minutes",
+        "total_time":"1 hour 30 minutes",
+        "ingredients": [
+          "2 medium tomatoes skin removed and chopped",
+          "5-10 springs each parsley and cilantro - tied together ",
+          "1 sweet potato cleaned and cut into similar size pieces as the squash",
+          "2-3 chunks of squash (butternut/pumpkin/acorn)",
+          "1 small turnip, cut into quarters",
+          "3-5 carrots, cleaned and quartered",
+          "1/4 wedge green cabbage",
+          "1/2 can chickpeas",
+          "2 medium zucchini, cleaned and quartered",
+          "1 small eggplant, ends removed and cut into quarters",
+          "1-2 hot peppers (optional) ",
+          "1 large onion, diced"
+        ],
+        "spices_addons": [
+          "3 tablespoons olive oil",
+          "2 teaspoons salt ",
+          "1 teaspoon ground turmeric ",
+          "1 teaspoon ground ginger ",
+          "1 teaspoon ground black pepper"
+        ]
+      },
+      {
+        "id": 1,
+        "name": "Lamb and Vegetable Couscous",
+        "origin": "Morocco",
+        "web": "https://hzeghari.now.sh",
+        "description": "One of the most traditional couscous recipes is lamb and vegetable couscous. While there might be a tendency to make the meat the star of this dish it’s really just an added element. Break out the produce and get cooking!",
+        "image":"https://marocmama.com/wp-content/uploads/2014/10/Moroccans-dont-eat-couscous-everyday-480x480.jpg",
+        "prep_time":"30 minutes",
+        "cook_time":"1 hour 30 minutes",
+        "total_time":"2 hours",
+        "ingredients": [
+          "1 box Rice Couscous ",
+          "1/2 - 1 lb of lamb - any cut works",
+          "1 zucchini",
+          "2 carrots",
+          "2 parsnips",
+          "1 tomato",
+          "1 serano pepper",
+          "1 potato",
+          "1 sweet potato",
+          "1 can of chickpeas",
+          "1/2 squash (your choice butternut or acorn work best) ",
+          "1 medium onion diced finely "
+        ],
+        "spices_addons": [
+          "2 tsp cumin",
+          "1 tsp salt",
+          "1 tsp pepper",
+          "1 tsp ginger (fresh if you have it)",
+          "1 1/2 tsp garlic",
+          "small bunch of flat-leaf parsley, wrapped in twine",
+          "water or vegetable broth"
+        ]
+      }
+    ]
+}    
