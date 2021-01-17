@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Logo" src="https://github.com/hzeghari/couscous-api/blob/master/images/couscous.jpg" width="100" />
+  <img alt="Logo" src="https://github.com/hzeghari/couscous-api/blob/main/images/couscous.jpg" width="100" />
 </div>
 <h1 align="center">
   Couscous API
